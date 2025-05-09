@@ -1,4 +1,4 @@
-# 📈 Apple Stock Trend Projection
+# 📈 Apple Stock Trend Prodiction
 
 This project downloads historical stock data for Apple Inc. (AAPL) using Yahoo Finance, performs feature engineering, trains a Random Forest classifier to predict the direction of the next day's price, and visualizes stock trends and correlations.
 
